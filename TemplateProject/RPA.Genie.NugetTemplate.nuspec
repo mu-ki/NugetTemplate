@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RPA.Genie.NugetTemplate</id>
+    <version>1.0.0</version>
+    <title>RPA.Genie.NugetTemplate</title>
+    <authors>Mugunthan</authors>
+    <owners>RPA Genie</owners>
+    <licenseUrl>http://claysys.com/</licenseUrl>
+    <projectUrl>http://claysys.com/</projectUrl>
+    <iconUrl>http://claysys.com/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Template for creating nuget package</description>
+    <releaseNotes>Initial Realise</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>RPAGenie</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
